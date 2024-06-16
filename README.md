@@ -1,2 +1,4 @@
-# tidb
-Java Programming Lab 6-7
+# Ticket Database
+
+Java Programming Lab 6-7.
+

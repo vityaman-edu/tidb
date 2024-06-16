@@ -1,0 +1,11 @@
+configuration:
+  connection:
+    address: localhost
+    port: 2222
+  database:
+    username: <USERNAME>
+    password: <PASSWORD>
+  threads:
+    deserialization: 10
+    service: 10
+    serialization: 10
